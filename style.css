@@ -1,0 +1,108 @@
+body {
+  background-color: #d4f8d4;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: rgba(255, 245, 204, 0.5);
+  margin: 20px;
+  padding: 10px 20px;
+  border-radius: 35px;
+  box-shadow: 0px 10px 6px rgba(0,0,0,0.2);
+}
+
+.nav-link {
+  color: #2c2c2c;
+  font-size: 17px;
+}
+
+.nav-link:hover {
+  color: #aab85c;
+  font-size: 19px;
+  transition: 0.3s;
+}
+
+h1, h4 {
+  text-align: center;
+}
+
+.NDL {
+  margin: 20px;
+  background-color: rgba(213, 184, 177, 0.88);
+  border-radius: 35px;
+  box-shadow: 0px 10px 6px rgba(0,0,0,0.2);
+  padding: 20px;
+}
+
+.MDL {
+  margin: 20px;
+  background-color: #fff5cc;
+  border-radius: 35px;
+  box-shadow: 0px 10px 6px rgba(0,0,0,0.2);
+  padding: 20px;
+}
+
+
+.about-img {
+  width: 45%;
+  max-width: 450px;
+  border-radius: 25px;
+  box-shadow: 0px 10px 6px rgba(0,0,0,0.2);
+}
+
+
+.about-text {
+  width: 55%;
+  font-size: 18px;
+  font-style: italic;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(173, 139, 115, 0.5);
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  padding: 5px 0;
+}
+
+.welcome-container {
+  background-color: rgba(230, 235, 255, 0.9);
+  border-radius: 35px;
+  box-shadow: 0px 10px 6px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  color: #2c2c2c;
+}
+
+.welcome-container h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.welcome-container h4 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+
+.nav-logo {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.about-text-container{ 
+  margin-left: 30px;
+  background-color: antiquewhite;
+  margin-right: 30px;
+
+}
+
+
