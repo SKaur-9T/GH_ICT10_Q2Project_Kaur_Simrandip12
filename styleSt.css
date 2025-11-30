@@ -4,6 +4,10 @@ body {
   color: #2c2c2c;
 }
 
+.nav-logo{
+  width: 50px;
+}
+
 
 #body {
   background: #fffbe6;
@@ -26,9 +30,6 @@ body {
   font-weight: 500;
   line-height: 1.6;
 }
-.nav-logo{
-  width: 50px;
-}
 
 .footer {
   background: #fff5cc;
@@ -37,4 +38,5 @@ body {
   font-weight: 600;
   letter-spacing: 1px;
 }
+
 
